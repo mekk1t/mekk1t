@@ -1,3 +1,3 @@
-### Hello there 👋
+👋 ### Hello there 
 
-- 🔭 I’m currently working on Digital Office project. Also about to start developing my family RecipeApp.
+🔭 I’m currently working on Digital Office project. Also about to start developing my family RecipeApp.
