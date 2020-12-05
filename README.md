@@ -45,6 +45,8 @@ My BIO:
    - Digital Office Map (paused for now)
    - Digital Office (in progress, been a participant in the 1st iteration)
    - CinemaNet Informational System (to be maintained and upgraded)
+ - WPF:
+   - Text encoder/decoder using Vigener's algorithm
  
  :hourglass_flowing_sand: Ideas
  -
