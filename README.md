@@ -12,44 +12,37 @@ My BIO:
  
  :scroll: Knowledge
  -
- - Languages
-   - C#, JavaScript, Python
- - "Languages"
-   - HTML, CSS
+ - Backend languages
+   - C#
+ - Frontend languages
+   - HTML
+   - CSS
+   - JavaScript
  - Frameworks
    - ASP.NET Core
-   - ASP.NET MVC 5
-   - Windows Presentation Foundation
-   - Console Apps
- - Used Libraries
-   - Entity Framework Core
-   - RabbitMQ
-   - MassTransit
+   - ASP.NET MVC 5 / ASP.NET WebAPI
+   - Windows Presentation Foundation (WPF)
    - NUnit
    - xUnit
+ - Libraries
+   - EF Core
+   - RabbitMQ.NET
+   - MassTransit
    - FluentValidation
-   - RestClient
-   - FluentFtp
    - FluentAssertions
- - Other:
+   - FluentFtp
+   - FluentEmail
+   - RestSharp
+   - EPPlus
+   - SimpleInjector
+   - NLog
+   - Swashbuckle   
+ - Other tech:
    - Microsoft SQL Server
    - Trello
    - SwaggerHub
-   - Git
-   - Team Foundation Server
+   - Git / GitHub Desktop
+   - Team Foundation Server / Azure DevOps
    - Postman
-   
- :hammer: Projects
- - 
- - ASP.NET Core Web Applications:
-   - Digital Office Map (paused for now)
-   - Digital Office (in progress, been a participant in the 1st iteration)
-   - CinemaNet Informational System (to be maintained and upgraded)
- - WPF:
-   - Text encoder/decoder using Vigener's algorithm
- 
- :hourglass_flowing_sand: Ideas
- -
- - Family Recipe Web Application
- - Hand-made Music Library
- - File-manager/organizer/cleaner with custom settings
+   - TeamCity
+   - Docker
